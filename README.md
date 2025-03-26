@@ -1,4 +1,4 @@
-## Full Stack Developer Exam
+## Software Engineer Exam
 
 **Tech Stack:** Node.js, Vue.js, Redis, PostgreSQL
 **Objective:** Build a full-stack TODO application demonstrating your knowledge in backend, frontend, database integration, and caching.
